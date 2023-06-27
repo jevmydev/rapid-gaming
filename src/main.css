@@ -14,7 +14,7 @@
         top: -15rem;
         left: -15rem;
         padding: 15rem;
-        opacity: .03;
+        opacity: 0.03;
         background: radial-gradient(#ea580c, transparent 60%);
         pointer-events: none;
     }
